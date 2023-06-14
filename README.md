@@ -1,4 +1,6 @@
-# -BusinessCase_Data_Exploration
+# Business Case: Aerofit - Descriptive Statistics & Probability
+Aerofit is a leading brand in the field of fitness equipment. Aerofit provides a product range including machines such as treadmills, exercise bikes, gym equipment, and fitness accessories to cater to the needs of all categories of people.
+
 Recommendations :
 
 KP781 is recommended for users who exercise/run more frequently, cover more miles, and have a higher income. It is a suitable choice for individuals who are planning to upgrade from KP481 and engage in intermediate to extensive exercise. Also the targeted Age Category is Adult and age above 45.
